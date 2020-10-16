@@ -369,7 +369,7 @@ deps = {
    Var('ocmock_git') + '@' +  Var('ocmock_tag'),
 
   'src/third_party/libjpeg-turbo':
-   Var('fuchsia_git') + '/third_party/libjpeg-turbo' + '@' + '0fb821f3b2e570b2783a94ccd9a2fb1f4916ae9f',
+   Var('fuchsia_git') + '/third_party/libjpeg-turbo' + '@' + 'ed1eed3717948c5aa7e4a6da6d10e5baa6a56574',
 
   'src/third_party/libwebp':
    Var('chromium_git') + '/webm/libwebp.git' + '@' + '0.6.0',
